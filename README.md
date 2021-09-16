@@ -24,6 +24,6 @@ Answers:
 
 ![image](answers.png)
 
-Do not spent more than 2 hours on this project. Do not worry about adding functionality not listed in the product requirements. Do not spend a lot of time on styling.
+Do not spent more than 3 hours on this project. Do not worry about adding functionality not listed in the product requirements. Do not spend a lot of time on styling.
 
 Please upload your finished project to a Github repo and send to Robert at robert@coilelectric.com. Should you need anything clarified please use that same email. Questions are welcome!
